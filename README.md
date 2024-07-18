@@ -1,4 +1,4 @@
-##Task 2 (Titanic Dataset Analysis)
+## Task 2 (Titanic Dataset Analysis)
 This script performs data cleaning and exploratory data analysis (EDA) on the Titanic dataset using pandas, matplotlib, and seaborn.
 
 Overview :
